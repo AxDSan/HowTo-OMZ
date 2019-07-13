@@ -69,10 +69,12 @@ example:
 ![](http://i.imgur.com/4H5l15U.png)
 
 
-_________________
+___
 
 We're done!
 
 Enjoy and have fun with your new terminal!
+
+___
 
 ###### Credits: baby WOGUE /w https://www.youtube.com/watch?v=wM1uNqj71Ko
