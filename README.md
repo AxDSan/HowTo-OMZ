@@ -25,7 +25,7 @@ At the end your terminal should look like this:
 
 #### `ZSH_THEME="robbyrussell"`
 ##### With: 
-####`ZSH_THEME="powerlevel9k/powerlevel9k"`
+#### `ZSH_THEME="powerlevel9k/powerlevel9k"`
 
 Restart your terminal and it should look a little better now.
 
