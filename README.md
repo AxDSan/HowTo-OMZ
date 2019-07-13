@@ -74,3 +74,5 @@ _________________
 We're done!
 
 Enjoy and have fun with your new terminal!
+
+###### Credits: baby WOGUE /w https://www.youtube.com/watch?v=wM1uNqj71Ko
