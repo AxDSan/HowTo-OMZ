@@ -1,4 +1,4 @@
-## Welcome Ubunista!
+## Welcome User!
 I will be showing you how to setup a good looking terminal that will make all your friends jealous of you :3
 
 At the end your terminal should look like this:
