@@ -77,4 +77,6 @@ Enjoy and have fun with your new terminal!
 
 ___
 
-###### Credits: baby WOGUE /w https://www.youtube.com/watch?v=wM1uNqj71Ko
+###### Credits: 
+- baby WOGUE @ https://www.youtube.com/watch?v=wM1uNqj71Ko
+- detailed medium article @ https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa
